@@ -1,0 +1,28 @@
+{
+	"bmi-installation" : 
+	{
+		"destination" : "/usr/local/bin",
+		"message-level" : "",
+		"permissions" : "",
+		"script-location" : "/home/korei/source/EDITOR/build/CMakeFiles/kvi.dir/install-cxx-module-bmi-Debug.cmake"
+	},
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/korei/source/EDITOR/build",
+	"dir-cur-src" : "/home/korei/source/EDITOR",
+	"dir-top-bld" : "/home/korei/source/EDITOR/build",
+	"dir-top-src" : "/home/korei/source/EDITOR",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/korei/source/EDITOR/libs",
+		"/home/korei/source/EDITOR/src"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/korei/source/EDITOR/build/CMakeFiles/kvi.dir"
+}

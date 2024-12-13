@@ -1,0 +1,7 @@
+/home/korei/source/EDITOR/build/CMakeFiles/kvi.dir
+/home/korei/source/EDITOR/build/CMakeFiles/edit_cache.dir
+/home/korei/source/EDITOR/build/CMakeFiles/rebuild_cache.dir
+/home/korei/source/EDITOR/build/CMakeFiles/list_install_components.dir
+/home/korei/source/EDITOR/build/CMakeFiles/install.dir
+/home/korei/source/EDITOR/build/CMakeFiles/install/local.dir
+/home/korei/source/EDITOR/build/CMakeFiles/install/strip.dir

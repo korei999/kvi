@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/korei/source/EDITOR/build",
+  "command": "/usr/lib64/ccache/clang++ -DADT_DBG_MEMORY -DADT_DEFER_LESS_TYPING -DADT_LOGS -DADT_LOGS_LESS_TYPING -D_DEFAULT_SOURCE -D_XOPEN_SOURCE -I/home/korei/source/EDITOR/libs -I/home/korei/source/EDITOR/src  -Wno-c99-designator -O0 -g3 -fsanitize=undefined -fsanitize=address -fno-threadsafe-statics -fno-rtti -fno-exceptions -fno-unwind-tables -Wall -Wextra -fms-extensions -Wno-missing-braces -Wmissing-field-initializers -Wno-unused-parameter -Wno-unused-variable -Wno-unused-function -Wno-unused-but-set-variable -Wno-cast-function-type-mismatch -g -std=c++23 -fcolor-diagnostics @CMakeFiles/kvi.dir/src/main.cc.o.modmap -o CMakeFiles/kvi.dir/src/main.cc.o -c /home/korei/source/EDITOR/src/main.cc",
+  "file": "/home/korei/source/EDITOR/src/main.cc",
+  "output": "CMakeFiles/kvi.dir/src/main.cc.o"
+}
+]
